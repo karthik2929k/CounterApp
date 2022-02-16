@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: #f1f5f8;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.heading {
+  font-family: 'Roboto';
+  font-size: 35px;
+  text-align: center;
+  color: #2d3a35;
+}
+.span-count {
+  color: #c20a72;
+}
+.para {
+  color: #ffffff;
+  text-align: center;
+}
